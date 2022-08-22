@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="hold-transition login-page" style="
-    background-image: url('./1.png');
+    background-image: url('./image.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;">
